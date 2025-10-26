@@ -1,0 +1,16 @@
+pandas 
+numpy 
+matplotlib
+seaborn
+plotly
+pathlib
+scikit-learn
+openpyxl
+pyarrow
+xlrd
+xlwt
+pyspark
+pyyaml
+tqdm
+loguru
+rich
