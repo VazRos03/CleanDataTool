@@ -1,0 +1,22 @@
+pandas 
+numpy 
+matplotlib
+seaborn
+plotly
+pathlib
+scikit-learn
+openpyxl
+pyarrow
+xlrd
+xlwt
+pyspark
+pyyaml
+tqdm
+loguru
+rich
+psutil
+
+# --- API REST ---
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart  # requerido para UploadFile y formularios
